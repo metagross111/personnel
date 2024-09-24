@@ -1,0 +1,9 @@
+{
+  "name": "e-prescription-backend 🔐",
+  "slug": "e-prescription-backend 🔐",
+  "description": "Backend service for an e-prescription app built with Spring Boot, secured via JWT authentication and Spring Security.",
+  "skills": "SpringBoot | REST Api | Spring Security | JWT | mongodb | ORM",
+  "githubUrl": "https://github.com/mohit07dec/e-prescription-backend.git",
+  "projectLink": "https://github.com/mohit07dec/e-prescription-backend.git",
+  "mainLink": "https://github.com/mohit07dec/e-prescription-backend.git"
+}
