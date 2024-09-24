@@ -14,6 +14,7 @@ export default defineNuxtConfig({
 		'@nuxt/content',
 		'@nuxthq/studio',
 		'@nuxtjs/tailwindcss',
+		'@nuxthub/core',
 	],
 	colorMode: {
 		preference: 'dark',
