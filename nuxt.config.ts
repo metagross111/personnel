@@ -79,6 +79,12 @@ export default defineNuxtConfig({
 		viewer: false,
 	},
 	nitro: {
+		storage: {
+			data: {
+				driver: 'vercelKV',
+			/* Vercel KV driver options */
+			},
+		},
 		prerender: {
 			routes: ['/blogs', '/projects'],
 		},
